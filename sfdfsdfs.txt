@@ -3,7 +3,13 @@ f
 sf
 sf
 sfsf
+<<<<<<< HEAD
 
 zmiana ga³ g³w
 
 s
+=======
+ssfsfsf
+sdfsfs
+zmina galaz poboczna
+>>>>>>> new_branch_1
