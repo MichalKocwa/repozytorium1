@@ -2,4 +2,12 @@ xdxdxdxdxdxdxdxdxdxdx
 xdxdxdxddxx
 elo elo 3 2 0
 
+<<<<<<< HEAD
 z,oaimain
+=======
+asanduasda
+zmiana
+
+
+zmian ga³az poboczna
+>>>>>>> new_branch_1
