@@ -3,5 +3,10 @@ sa
 fsa
 fsafdsa
 fsafs
+<<<<<<< HEAD
 
 zmiana ga³a g³
+=======
+ zmninaa ga³aw
+zmina agalala zpoboczna
+>>>>>>> new_branch_1
