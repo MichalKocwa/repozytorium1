@@ -4,7 +4,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iomanip>
-
+zmiana niedziazsz
 std::int64_t Vehicle::next_vin_ = 1;
 
 std::string to_string(const Vehicle& vehicle) {
